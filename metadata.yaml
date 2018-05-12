@@ -1,0 +1,32 @@
+_repo: Oh-Little-Town-of-Bethlehem_18608
+_version: 0.1.0
+contributor:
+  arranger:
+    agent_name: Davis, Rick
+    gutenberg_agent_id: '38502'
+    url: http://www.gutenberg.org/2009/agents/38502
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Redner, Lewis
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '8144'
+    url: http://www.gutenberg.org/2009/agents/8144
+    wikipedia: http://cpdl.org/wiki/index.php/Lewis_H._Redner
+description: ''
+gutenberg_issued: '2006-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas music'
+- !lcc 'M'
+title: Oh Little Town of Bethlehem
+url: http://www.gutenberg.org/ebooks/18608

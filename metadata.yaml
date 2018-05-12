@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8144
     wikipedia: http://cpdl.org/wiki/index.php/Lewis_H._Redner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18608#Oh-Little-Town-of-Bethlehem
 gutenberg_issued: '2006-06-17'
 gutenberg_type: Text
 identifiers:
